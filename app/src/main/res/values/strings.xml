@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GithubProject</string>
+    <string name="title_users">Usuários</string>
+    <string name="title_repositories">Repositórios</string>
+    <string name="hint_search">Buscar…</string>
+    <string name="get_users_error">Erro ao recuperar usuários...</string>
+</resources>
